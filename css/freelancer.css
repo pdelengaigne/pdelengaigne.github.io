@@ -9863,7 +9863,7 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-.video-center{
-  display: block;
-  text-align: center;
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
 }
